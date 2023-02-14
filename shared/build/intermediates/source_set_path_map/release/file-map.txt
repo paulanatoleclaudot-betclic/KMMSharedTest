@@ -1,0 +1,9 @@
+com.example.mybetslip.shared-pngs-0 /Users/p.claudot/AndroidStudioProjects/MyBetslip/shared/build/generated/res/pngs/release
+com.example.mybetslip.shared-resValues-1 /Users/p.claudot/AndroidStudioProjects/MyBetslip/shared/build/generated/res/resValues/release
+com.example.mybetslip.shared-rs-2 /Users/p.claudot/AndroidStudioProjects/MyBetslip/shared/build/generated/res/rs/release
+com.example.mybetslip.shared-mergeReleaseResources-3 /Users/p.claudot/AndroidStudioProjects/MyBetslip/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.mybetslip.shared-mergeReleaseResources-4 /Users/p.claudot/AndroidStudioProjects/MyBetslip/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.mybetslip.shared-merged_res-5 /Users/p.claudot/AndroidStudioProjects/MyBetslip/shared/build/intermediates/merged_res/release
+com.example.mybetslip.shared-androidMain-6 /Users/p.claudot/AndroidStudioProjects/MyBetslip/shared/src/androidMain/res
+com.example.mybetslip.shared-main-7 /Users/p.claudot/AndroidStudioProjects/MyBetslip/shared/src/main/res
+com.example.mybetslip.shared-release-8 /Users/p.claudot/AndroidStudioProjects/MyBetslip/shared/src/release/res
