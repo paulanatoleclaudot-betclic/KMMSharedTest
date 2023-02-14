@@ -3,18 +3,18 @@
 import PackageDescription
 
 let package = Package(
-    name: "BetclicShareBS",
+    name: "SharedBS",
     platforms: [
         .iOS(.v12)
     ],
     products: [
         .library(
-            name: "BetclicShareBS",
-            targets: ["BetclicShareBS"]),
+            name: "SharedBS",
+            targets: ["shared"]),
     ],
     targets: [
         .binaryTarget(
-             name: "BetclicShareBS",
+             name: "shared",
              path: "./shared/build/XCFrameworks/release/shared.xcframework"),
     ]
 )
